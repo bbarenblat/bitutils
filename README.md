@@ -7,8 +7,6 @@ easier.
 -   `hex` converts its argument (or standard input) to hexadecimal.
 -   `bitrule` displays a ruler below its standard input.
 
-This is not an official Google product.
-
 ## Example
 
 ``` shellsession
